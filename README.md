@@ -1,5 +1,4 @@
-  🌀  Interactive Micro Slider by Janieart.com  🌀       
-
+Interactive Micro Slider by Janieart.com     
 
 Made with ❤️ by Janie Giltner
 👉 https://Janieart.com
