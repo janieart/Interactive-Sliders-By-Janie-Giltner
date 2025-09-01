@@ -5,11 +5,12 @@ Made with ❤️ by Janie Giltner
 
 📜 License
 MIT License — free to use, tweak, and share.
-# Interactive-Micro-Slider-By-Janie-Giltner
-Naked Interactive Sliders For Wordpress - A Plugin so streamlined and yet beautiful to build upon.
+
+
 # Interactive Micro Slider by [Janieart.com](https://Janieart.com)
 
-A lightweight bare-bones (naked) yet powerful WordPress slider plugin with advanced micro-interactions, smooth animations, and a user-friendly admin panel. Touch/swipe support, auto-play, responsive design, and performance optimization — all in one simple package without bloat.
+A lightweight bare-bones (naked) yet powerful WordPress slider plugin with advanced micro-interactions, smooth animations, and a user-friendly admin panel. Touch/swipe support, auto-play, responsive design, and performance optimization — all in one simple package without bloat. 
+A Plugin so streamlined and yet beautiful to build upon.
 ---
 1 PHP file does it all!
 ---
