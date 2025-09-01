@@ -1,4 +1,4 @@
-# Interactive-Sliders-By-Janie-Giltner
+# Interactive-Micro-Slider-By-Janie-Giltner
 Naked Interactive Sliders For Wordpress - A Plugin so streamlined and yet beautiful to build upon.
 # Interactive Micro Slider by [Janieart.com](https://Janieart.com)
 
