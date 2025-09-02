@@ -4,8 +4,8 @@
  * Plugin URI: https://janieart.com/
  * Description: Create beautiful sliders with smooth micro-interactions, animations, and advanced controls. Features touch/swipe support, auto-play, and responsive design.
  * Version: 2.0.0
- * Author: Your Name
- * License: GPL v2 or later
+ * Author: Janie Giltner
+ * License: MIT
  * Text Domain: interactive-micro-slider
  */
 
@@ -1566,4 +1566,5 @@ multiple: false
 }
 
 // Initialize the plugin
+
 new InteractiveMicroSlider();
